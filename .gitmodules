@@ -1,0 +1,3 @@
+[submodule "ft_ping"]
+	path = ft_ping
+	url = git@github.com:spuyet/ft_ping.git
