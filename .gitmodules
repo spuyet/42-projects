@@ -4,3 +4,6 @@
 [submodule "Abstract-VM"]
 	path = Abstract-VM
 	url = git@github.com:spuyet/Abstract-VM.git
+[submodule "Libfts"]
+	path = Libfts
+	url = https://github.com/spuyet/Libfts
