@@ -1,3 +1,6 @@
 [submodule "ft_ping"]
 	path = ft_ping
 	url = git@github.com:spuyet/ft_ping.git
+[submodule "Abstract-VM"]
+	path = Abstract-VM
+	url = git@github.com:spuyet/Abstract-VM.git
